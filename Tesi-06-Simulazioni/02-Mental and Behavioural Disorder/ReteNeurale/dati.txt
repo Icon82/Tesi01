@@ -1,0 +1,4 @@
+Early stopping52
+Train R^2: 0.9896580101922154 - Variances: [0.00872088]
+Validation R^2: 0.9877709969878197 - Variances: [0.00904628]
+Test R^2: 0.992531846743077 - Variances: [0.00663876]
